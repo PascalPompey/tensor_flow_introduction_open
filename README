@@ -1,0 +1,5 @@
+Running this code requires:
+    Python 2.7 with tensorflow, scikit-learn installed
+
+Please follow instructions here to do so. I recommend the anaconda install
+https://www.tensorflow.org/versions/r0.9/get_started/os_setup.html#anaconda-installation
